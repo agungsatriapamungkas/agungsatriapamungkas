@@ -26,8 +26,15 @@ Saat ini saya fokus di:
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/PLC-Automation-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IoT-Internet%20of%20Things-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LabVIEW-NI-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ThingSpeak-Data-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SolidWorks-3D Design-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Autodesk%20Inventor-Mechanical-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AutoCAD-Design%20Drafting-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-Manufacturing-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Canva-Design-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma-UI%2FUX-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Proteus-Circuit%20Simulation-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VS%20Code-Code-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FESTO%20Fluidsim-Pneumatics-blue?style=for-the-badge" />
 </p>
 
 ---
@@ -39,11 +46,11 @@ Saat ini saya fokus di:
 
 - 🔬 **Proyek Penelitian**
   > Fokus pada pengembangan teknologi:
-  - ⚡ **Electric Vehicle & Energi Terbarukan**  
+  - ⚡ **Mobil Listrik & Energi Terbarukan**  
     Meneliti optimalisasi penggunaan baterai dan energi alternatif untuk kendaraan listrik.
   - 🧠 **Deteksi Cacat Produk Menggunakan YOLO (You Only Look Once)**  
     Implementasi computer vision untuk inspeksi kualitas dan mendeteksi cacat produk secara otomatis.
-  - 🦺 **Sistem Safety dan Keamanan di Lingkungan Industri**  
+  - 🦺 **Sistem Safety dan Keamanan di Lingkungan Industri Menggunakan YOLO (You Only Look Once)**  
     Riset penggunaan AI dan sensor untuk meningkatkan keselamatan kerja dan pencegahan bahaya.
 
 - 🏭 **Integrasi AI dalam Manufaktur**
